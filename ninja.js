@@ -33,3 +33,4 @@ class Ninja {
          this.image=changeImage;
     }
 }
+
